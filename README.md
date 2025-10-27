@@ -1,1 +1,1 @@
-# paint-github-fd51c
+# github-fd51c
